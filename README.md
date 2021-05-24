@@ -2,7 +2,9 @@
 
 ## Short summery
 
-Choose the *Patient* assigment. Created a singleton pattern for the mock data instead of a sqldatabase. This is also mentioned in the project. It is possible to:
+Chose the *Patient* assigment. Created a singleton pattern for the mock data instead of a sql database. This is also mentioned in the project. Used mapping and Data transfer object (DTO). 
+
+It is possible to:
 * Create new doctor
 * Check if doctor X has access to patient Y medical journal
 * See list of doctors
