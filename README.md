@@ -2,7 +2,7 @@
 
 ## Short summery
 
-Chose the *Patient* assigment. Created a singleton pattern for the mock data instead of a sql database. This is also mentioned in the project. Used mapping and Data transfer object (DTO). 
+Chose the *Patient* assigment. Created a *Singleton Design Pattern* for the mockup data instead of a sql database. This is also mentioned in the project. Used mapping and Data transfer object (DTO). 
 
 It is possible to:
 * Create new doctor
