@@ -4,8 +4,7 @@
 
 Getting a doctor which is authorized for a patient on a admission:
 
-http://localhost:5000/api/Admissions/67048766/0   // Changing the "0" to "1" will give a no permission since 
-that doctor is not authorized to that patient
+http://localhost:5000/api/Admissions/67048766/0   Changing the "0" to "1" will give a no permission since that doctor is not authorized to that patient
 
 Getting all doctors:
 
@@ -28,7 +27,7 @@ http://localhost:5000/api/doctors/
 
 # Docker Setup
 
-In terminal for setup:(Proberly not needed)
+In terminal for setup: (Properly not needed)
 
 docker build -t wiggersdocker/hospital .
 
