@@ -1,6 +1,13 @@
 # Hospital README
 
-# Postman
+## Short summery
+
+Choose the *Patient* assigment. Created a singleton pattern for the mock data instead of a sqldatabase. This is also mentioned in the project. It is possible to:
+* Create new doctor
+* Check if doctor X has access to patient Y medical journal
+* See list of doctors
+
+## Postman
 
 Getting a doctor which is authorized for a patient on a admission:
 
@@ -25,7 +32,7 @@ http://localhost:5000/api/doctors/
 }
 
 
-# Docker Setup
+## Docker Setup
 
 In terminal for setup: (Properly not needed)
 
