@@ -2,9 +2,9 @@
 
 # Postman
 
-Getting a doctor which is autherrized for a patient on a adsission:
+Getting a doctor which is authorized for a patient on a admission:
 
-http://localhost:5000/api/Admissions/67048766/0   // Changing the "0" to "1" will give a no perssin since that doctor is not autorized to that patient
+http://localhost:5000/api/Admissions/67048766/0   // Changing the "0" to "1" will give a no permission since that doctor is not authorized to that patient
 
 Getting all doctors:
 
